@@ -42,3 +42,8 @@ CREATE TABLE `rentar` (
   CONSTRAINT `idPelicula` FOREIGN KEY (`idPelicula`) REFERENCES `peliculas` (`idPelicula`),
   CONSTRAINT `idUsuario` FOREIGN KEY (`idUsuario`) REFERENCES `usuarios` (`idUsuario`)
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+USE lab_ing_software;
+SELECT * FROM usuarios;
+SELECT * FROM peliculas;
+SELECT * FROM rentar;
