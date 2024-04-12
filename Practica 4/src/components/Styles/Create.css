@@ -1,0 +1,49 @@
+.contain{
+   text-align: center;
+   display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    width: 300px;
+    align-items: center
+}
+
+.title{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.textfield{
+    width: 300px;
+}   
+
+.color-overlay{
+    background-color: rgba(0, 0, 0, 2); 
+    height: 200%;
+    width: 100%;
+    mix-blend-mode: normal;
+}
+
+.enter-text{
+    margin-top: 8px;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.label-enter{
+    margin-bottom: 8px;
+}
+
+.button-create{
+    margin-top: 10px;
+    width: 200px;
+    text-align: center;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+.button-container{
+    text-align: center;
+    align-items: center;
+}

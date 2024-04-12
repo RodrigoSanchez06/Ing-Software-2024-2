@@ -1,0 +1,11 @@
+.logo {
+  width: 100px;
+  height: 60px;
+}
+
+.links-bar{
+  color: aliceblue;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-decoration: none;
+}

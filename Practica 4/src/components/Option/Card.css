@@ -1,0 +1,7 @@
+.card-tam {
+    width: 300px; /* Ancho de la tarjeta */
+    margin: auto; /* Centra la tarjeta horizontalmente */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra */
+    margin-top: 70px;
+}
